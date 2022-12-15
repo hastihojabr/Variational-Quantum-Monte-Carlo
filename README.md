@@ -1,2 +1,4 @@
 # Variational-Quantum-Monte-Carlo
-Harmonic oscillator
+-Harmonic oscillator
+-Hydrogen atom
+-Helium Atom 
